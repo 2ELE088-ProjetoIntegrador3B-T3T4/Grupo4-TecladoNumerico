@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=D+ Pin=U1-A6
+Removed Pin From Net: NetName=D- Pin=U1-A7
+Removed Pin From Net: NetName=D+ Pin=U1-B6
+Removed Pin From Net: NetName=D- Pin=U1-B7
+Added Pin To Net: NetName=D_N Pin=U1-A7
+Added Pin To Net: NetName=D_N Pin=U1-B7
+Added Net: Name=D_N
+Added Pin To Net: NetName=D_P Pin=U1-A6
+Added Pin To Net: NetName=D_P Pin=U1-B6
+Added Net: Name=D_P
+Added Differential Pair: Name=D

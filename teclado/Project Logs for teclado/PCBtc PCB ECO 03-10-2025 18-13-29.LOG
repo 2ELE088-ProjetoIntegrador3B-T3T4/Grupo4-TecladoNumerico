@@ -1,0 +1,150 @@
+Removed Member From Class: ClassName=SqTeclado Member=R6
+Change Component Designator: OldDesignator=C1 NewDesignator=C10
+Change Component Designator: OldDesignator=C2 NewDesignator=C11
+Change Component Designator: OldDesignator=C3 NewDesignator=C12
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C5 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Component Designator: OldDesignator=C8 NewDesignator=C5
+Change Component Designator: OldDesignator=C9 NewDesignator=C1
+Change Component Designator: OldDesignator=C10 NewDesignator=C2
+Change Component Designator: OldDesignator=C11 NewDesignator=C3
+Change Component Designator: OldDesignator=C12 NewDesignator=C4
+Change Component Designator: OldDesignator=D1 NewDesignator=D14
+Change Component Designator: OldDesignator=D2 NewDesignator=D15
+Change Component Designator: OldDesignator=D3 NewDesignator=D10
+Change Component Designator: OldDesignator=D4 NewDesignator=D11
+Change Component Designator: OldDesignator=D5 NewDesignator=D12
+Change Component Designator: OldDesignator=D6 NewDesignator=D7
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=D8 NewDesignator=D9
+Change Component Designator: OldDesignator=D9 NewDesignator=D4
+Change Component Designator: OldDesignator=D10 NewDesignator=D5
+Change Component Designator: OldDesignator=D11 NewDesignator=D6
+Change Component Designator: OldDesignator=D12 NewDesignator=D1
+Change Component Designator: OldDesignator=D13 NewDesignator=D2
+Change Component Designator: OldDesignator=D14 NewDesignator=D3
+Change Component Designator: OldDesignator=D15 NewDesignator=D13
+Change Component Designator: OldDesignator=R1 NewDesignator=R5
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator= R5 NewDesignator= R1
+Change Component Designator: OldDesignator=R6 NewDesignator=R1
+Change Component Designator: OldDesignator=U1 NewDesignator=U19
+Change Component Designator: OldDesignator=U2 NewDesignator=U18
+Change Component Designator: OldDesignator=U3 NewDesignator=U16
+Change Component Designator: OldDesignator=U4 NewDesignator=U17
+Change Component Designator: OldDesignator=U5 NewDesignator=U12
+Change Component Designator: OldDesignator=U6 NewDesignator=U13
+Change Component Designator: OldDesignator=U7 NewDesignator=U14
+Change Component Designator: OldDesignator=U8 NewDesignator=U9
+Change Component Designator: OldDesignator=U9 NewDesignator=U10
+Change Component Designator: OldDesignator=U10 NewDesignator=U11
+Change Component Designator: OldDesignator=U11 NewDesignator=U6
+Change Component Designator: OldDesignator=U12 NewDesignator=U7
+Change Component Designator: OldDesignator=U13 NewDesignator=U8
+Change Component Designator: OldDesignator=U14 NewDesignator=U5
+Change Component Designator: OldDesignator=U15 NewDesignator=U2
+Change Component Designator: OldDesignator=U16 NewDesignator=U3
+Change Component Designator: OldDesignator=U17 NewDesignator=U4
+Change Component Designator: OldDesignator=U18 NewDesignator=U1
+Change Component Designator: OldDesignator=U19 NewDesignator=U15
+Change Component Designator: OldDesignator=X1 NewDesignator=X10
+Added Component: Designator=X1(tecla)
+Add component (AddParameter): Name = "Actuator Length"; Value = "3.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Polyethylene, Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Pushbutton Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/MX1A-C1NN-Cherry-datasheet-160429.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/MX1A-C1NN-Cherry-datasheet-160429.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/MX1A-C1NN-Cherry-datasheet-11735291.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/MX1A-C1NN-Cherry-datasheet-11735291.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/MX1A-C1NN-Cherry-datasheet-130429.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/MX1A-C1NN-Cherry-datasheet-130429.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/MX1A-C1NN-Cherry-datasheet-101570275.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/MX1A-C1NN-Cherry-datasheet-101570275.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/MX1A-C1NN-Cherry-datasheet-5391353.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/MX1A-C1NN-Cherry-datasheet-5391353.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/MX1AC1NN-Cherry-datasheet-137317204.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/MX1AC1NN-Cherry-datasheet-137317204.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold, Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "200mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "20Mcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15.5956mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cherry"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MX1A-C1NN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "20Mcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-10°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Front, Panel, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "589.4mN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1,25 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "664"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "CH198-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "6.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "15.6mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=SqTeclado Member=Component C2 104 0603
+Added Member To Class: ClassName=SqTeclado Member=Component C7 20p 0603
+Added Member To Class: ClassName=SqTeclado Member=Component C8 105 0603
+Added Member To Class: ClassName=SqTeclado Member=Component C10 223 0603
+Added Member To Class: ClassName=SqTeclado Member=Component C11 106 0603
+Added Member To Class: ClassName=SqTeclado Member=Component C12 104 0603
+Added Member To Class: ClassName=SqTeclado Member=Component D2 Diodo
+Added Member To Class: ClassName=SqTeclado Member=Component D5 Diodo
+Added Member To Class: ClassName=SqTeclado Member=Component D8 Diodo
+Added Member To Class: ClassName=SqTeclado Member=Component D9 Diodo
+Added Member To Class: ClassName=SqTeclado Member=Component D10 Diodo
+Added Member To Class: ClassName=SqTeclado Member=Component D11 Diodo
+Added Member To Class: ClassName=SqTeclado Member=Component D12 Diodo
+Added Member To Class: ClassName=SqTeclado Member=Component D15 Diodo
+Added Member To Class: ClassName=SqTeclado Member=Component R3 10k 0603
+Added Member To Class: ClassName=SqTeclado Member=Component R4 10k 0603
+Added Member To Class: ClassName=SqTeclado Member=Component R5 R 1Mr 0603
+Added Member To Class: ClassName=SqTeclado Member=Component U10 suporte hot-swap
+Added Member To Class: ClassName=SqTeclado Member=Component U11 suporte hot-swap
+Added Member To Class: ClassName=SqTeclado Member=Component U12 suporte hot-swap
+Added Member To Class: ClassName=SqTeclado Member=Component U13 suporte hot-swap
+Added Member To Class: ClassName=SqTeclado Member=Component U14 suporte hot-swap
+Added Member To Class: ClassName=SqTeclado Member=Component U15 suporte hot-swap
+Added Member To Class: ClassName=SqTeclado Member=Component U16 suporte hot-swap
+Added Member To Class: ClassName=SqTeclado Member=Component U17 suporte hot-swap
+Added Member To Class: ClassName=SqTeclado Member=Component U18 Protetor de estatica
+Added Member To Class: ClassName=SqTeclado Member=Component U19 5V->3V
+Added Member To Class: ClassName=SqTeclado Member=Component X1 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X2 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X3 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X4 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X5 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X6 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X7 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X8 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X9 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X10 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X11 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X12 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X13 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X14 switch
+Added Member To Class: ClassName=SqTeclado Member=Component X15 switch

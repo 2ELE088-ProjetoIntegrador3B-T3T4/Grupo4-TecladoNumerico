@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : H:\OneDrive-UEL\OneDrive - Universidade Estadual de Londrina\[1]-Pcompartilhada\[3]-3_ano\PI 3B\altium\tudo\tec\PCBtc.PcbDoc
+Date         : 22/10/2025
+Time         : 21:37:26
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 94.5mmx103.5mm
+    Components on board, 70
+count : 2
