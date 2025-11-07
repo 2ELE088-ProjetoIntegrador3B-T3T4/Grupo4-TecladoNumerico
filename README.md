@@ -24,8 +24,7 @@ Quanto ao uso de switches mecânicos, o uso se dá pela alta durabilidade e conf
 
 - O sistema mecânico também possibilita a troca das keycaps - peça que cobre o topo das teclas, rotulando a função de cada uma - à bel-prazer do consumidor, de acordo com sua estética, material e topografia.
   - Com esses dois últimos tópicos buscamos não só dar uma ferramenta nas mãos do usuário como também deixamos a possibilidade de customização própria do usuário em aberto, caso esse venha a desejar.
-    > [!NOTE]
-    > a intenção é que o produto venha completamente funcional para o usuário, que se quiser fazer modificações terá de buscar por si só, aproveitando das comodidades oferecidas para a customização.
+    > A intenção é que o produto venha completamente funcional para o usuário, que se quiser fazer modificações terá de buscar por si só, aproveitando das comodidades oferecidas para a customização.
 
 - Durabilidade e performance: O estimado para o teclado é que suporte entre 30 e 70 milhões de cliques por tecla, como é estimado para qualquer teclado mecânico.
 
