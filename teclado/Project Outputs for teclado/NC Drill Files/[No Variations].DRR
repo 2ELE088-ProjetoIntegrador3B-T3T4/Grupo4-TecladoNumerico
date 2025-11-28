@@ -1,19 +1,20 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCBtc.PcbDoc   28/11/2025  09:59:48
+NCDrill File Report For: PCBtc.PcbDoc   28/11/2025  15:15:16
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : [No Variations].TXT
+ASCII Plated RoundHoles File : [No Variations]-Plated.TXT
+ASCII Non-Plated RoundHoles File : [No Variations]-NonPlated.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             4         PTH        4.01mm (0.16inch)
-T2      0.3mm (12mil)                                             Round             52        PTH        677.12mm (26.66inch)
-T3      1mm (39mil)                                               Round             20        PTH        60.96mm (2.40inch)
-T4      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
-T5      3mm (118mil)                                              Round             30        NPTH       370.84mm (14.60inch)
-T6      3.5mm (138mil)                                            Round             4         NPTH       296.04mm (11.66inch)
-T7      4.089mm (161mil)                                          Round             15        NPTH       304.80mm (12.00inch)
+T1      8mil (0.2mm)                                              Round             4         PTH        0.16inch (4.01mm)
+T2      12mil (0.3mm)                                             Round             52        PTH        26.66inch (677.12mm)
+T3      39mil (1mm)                                               Round             20        PTH        2.40inch (60.96mm)
+T4      26mil (0.65mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+T5      118mil (3mm)                                              Round             30        NPTH       14.60inch (370.84mm)
+T6      138mil (3.5mm)                                            Round             4         NPTH       11.66inch (296.04mm)
+T7      161mil (4.089mm)                                          Round             15        NPTH       12.00inch (304.80mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              127
 

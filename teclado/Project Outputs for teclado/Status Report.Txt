@@ -1,14 +1,13 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 10:01:08 On 28/11/2025
+Start Output Generation At 16:02:36 On 28/11/2025
 
-Output: Export STEP
-Type  : ExportSTEP
-From  : Variant [[No Variations]] of PCB Document [PCBtc.PcbDoc]
-   Generated File[[No Variations].step]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [teclado.PrjPcb]
 
 
-Files Generated   : 1
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 10:01:15 On 28/11/2025
+Finished Output Generation At 16:02:45 On 28/11/2025
