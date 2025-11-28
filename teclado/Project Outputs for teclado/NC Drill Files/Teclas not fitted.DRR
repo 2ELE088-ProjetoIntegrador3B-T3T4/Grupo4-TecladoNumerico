@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCBtc.PcbDoc   31/10/2025  14:33:36
+NCDrill File Report For: PCBtc.PcbDoc   27/11/2025  22:18:22
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,12 +8,13 @@ ASCII RoundHoles File : Teclas not fitted.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      0.2mm (8mil)                                              Round             4         PTH        4.01mm (0.16inch)
-T2      0.3mm (12mil)                                             Round             42        PTH        513.01mm (20.20inch)
-T3      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
-T4      2.7mm (106mil)                                            Round             4         NPTH       296.04mm (11.66inch)
+T2      0.3mm (12mil)                                             Round             53        PTH        694.21mm (27.33inch)
+T3      1mm (39mil)                                               Round             20        PTH        60.96mm (2.40inch)
+T4      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
 T5      3mm (118mil)                                              Round             30        NPTH       370.84mm (14.60inch)
-T6      4.089mm (161mil)                                          Round             15        NPTH       304.80mm (12.00inch)
+T6      3.5mm (138mil)                                            Round             4         NPTH       296.04mm (11.66inch)
+T7      4.089mm (161mil)                                          Round             15        NPTH       304.80mm (12.00inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              97
+Totals                                                                              128
 
 Total Processing Time (hh:mm:ss) : 00:00:00
