@@ -4,13 +4,16 @@ H:\OneDrive-UEL\OneDrive - Universidade Estadual de Londrina\[1]-Pcompartilhada\
 ========================================================================================================================
 File Design Information:
 
-Date:       27/11/25
-Time:       22:17
-Revision:   c2960b93f79f40cf0b0597ae345182e2d603b11e
+Date:       28/11/25
+Time:       09:59
+Revision:   8c323e10b45e1737cb5be808c02131c6bd1bb9d4
 Variant:    Teclas not fitted
 Units used: mil
 
 Designator Comment                Layer       Footprint                        Center-X(mil) Center-Y(mil) Rotation Description                                                                                                               
+R7         "R 1.5k 0402"          TopLayer    R_1.5k_0402                      1515.748      3141.732      180      "Res Thin Film 0402 1.5K Ohm 0.1% 0.063W ±25ppm/°C Molded SMD Punched Carrier T/R"                                        
+R6         "R 5.1k 0402"          BottomLayer R_5.1k_0402                      1685.039      3917.323      90       "Res Thick Film 0402 5.1K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD Automotive T/R"                                            
+R1         "R 5.1k 0402"          BottomLayer R_5.1k_0402                      1803.150      3921.260      90       "Res Thick Film 0402 5.1K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD Automotive T/R"                                            
 R14        "10k 0603"             BottomLayer Resistor_10k_0603                1578.740      1019.685      0        "100mW Thick Film Resistors ±1% ±100ppm/? 10kO 0603 Chip Resistor - Surface Mount ROHS"                                   
 R13        "10k 0603"             BottomLayer Resistor_10k_0603                1578.740      1122.047      0        "100mW Thick Film Resistors ±1% ±100ppm/? 10kO 0603 Chip Resistor - Surface Mount ROHS"                                   
 R12        "10k 0603"             BottomLayer Resistor_10k_0603                1582.677      1421.260      0        "100mW Thick Film Resistors ±1% ±100ppm/? 10kO 0603 Chip Resistor - Surface Mount ROHS"                                   
@@ -23,7 +26,6 @@ J1         SBH11-PBPC-D10-ST-BK   TopLayer    Conector_20_pinos_p/_programação 1
 C13        "104 0603"             TopLayer    Cap_104_0603                     1606.299      2602.362      0        "16V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                               
 C7         "C 33pf 0402"          TopLayer    C_33pf_0402                      2074.803      2299.213      90       "Ceramic Capacitor, Multilayer, Ceramic, 50V, 5% +Tol, 5% -Tol, C0G, 0+-30ppm/Celcius TC, 33pF, Surface Mount, 0402 inch" 
 C6         "C 33pf 0402"          TopLayer    C_33pf_0402                      1523.622      2307.087      90       "Ceramic Capacitor, Multilayer, Ceramic, 50V, 5% +Tol, 5% -Tol, C0G, 0+-30ppm/Celcius TC, 33pF, Surface Mount, 0402 inch" 
-R7         "1,5k R"               TopLayer    R_1.5k                           1531.496      3149.606      180      "Fixed Resistor, Metal Glaze/thick Film, 0.15W, 1500ohm, 50V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0705"                 
 Y1         8MHz                   TopLayer    Cristal_8MHz                     1801.534      2443.165      0        "Crystal 8MHz ±30ppm (Tol) ±100ppm (Stability) 20pF FUND 60Ohm 2-Pin SMD T/R"                                             
 U19        5V->3V                 BottomLayer Regulador_5v->3v                 1622.377      3206.210      270      "RT9193 Series 300 mA 3.3 V Ultra-Low Noise Ultra-Fast CMOS LDO Regulator-SC-70-5"                                        
 U18        "Protetor de estatica" TopLayer    Potege_estatica                  1777.594      3229.582      90       "USBLC6 Series 2 Line 6 V Uni / Bi-Directional ESD Protection - SOT-23-6"                                                 
@@ -47,8 +49,6 @@ U1         USB-C                  TopLayer    USB-C                            1
 R5         "R 1Mr 0603"           BottomLayer R_1Mr_0603                       1801.534      2366.090      180      "Res Thick Film 0603 1M Ohm 1% 1/10W ±100ppm/°C Molded SMD Punched Carrier T/R"                                           
 R4         "10k 0603"             TopLayer    Resistor_10k_0603                1535.433      2791.339      180      "100mW Thick Film Resistors ±1% ±100ppm/? 10kO 0603 Chip Resistor - Surface Mount ROHS"                                   
 R2         "10k 0603"             BottomLayer Resistor_10k_0603                1837.420      2483.931      0        "100mW Thick Film Resistors ±1% ±100ppm/? 10kO 0603 Chip Resistor - Surface Mount ROHS"                                   
-R1         "5k1 0402"             BottomLayer R_5k1_0402                       1802.518      3917.575      90       "Res Thin Film 0402 5.1K Ohm 0.1% 0.063W ±25ppm/°C Molded SMD Punched Carrier T/R"                                        
-R6         "5k1 0402"             BottomLayer R_5k1_0402                       1684.408      3918.559      270      "Res Thin Film 0402 5.1K Ohm 0.1% 0.063W ±25ppm/°C Molded SMD Punched Carrier T/R"                                        
 F1         "500mA 0402"           BottomLayer Fuse                             1662.754      3515.016      270      "Fuse Chip Fast Acting 0.5A 32V SMD Solder Pad 0402 1 X 0.5 X 0.39mm T/R UL/cUL"                                          
 D15        Diodo                  BottomLayer Diodo                            4486.221      400.591       90       "Diode, Rectifier, Fast, Vr 100V, If 300MA, Pkg SOD-323, Vf 1V, Trr 4NS, Cj 4PF, Tj +150C"                                
 D14        Diodo                  BottomLayer Diodo                            3721.457      412.402       90       "Diode, Rectifier, Fast, Vr 100V, If 300MA, Pkg SOD-323, Vf 1V, Trr 4NS, Cj 4PF, Tj +150C"                                

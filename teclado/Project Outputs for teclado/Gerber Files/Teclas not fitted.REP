@@ -2,20 +2,26 @@
 FileName = Teclas not fitted.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : Teclas not fitted.GBO
+Generating : Bottom Paste
+      File : Teclas not fitted.GBP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D73
+    D17
+    D55
+    D56
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
 *************************************************************
 
 *************************************************************
@@ -42,10 +48,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Teclas not fitted.GBP
+Generating : Bottom Solder
+      File : Teclas not fitted.GBS
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -53,31 +59,25 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D22
-    D55
-    D56
-    D57
-    D59
-    D60
-    D61
-    D62
-    D63
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Teclas not fitted.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
+    D25
+    D27
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
 *************************************************************
 
 *************************************************************
@@ -114,6 +114,39 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : Teclas not fitted.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Teclas not fitted.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : Teclas not fitted.GBL
 
@@ -124,8 +157,8 @@ Generating : Bottom Layer
 
 Used DCodes :
     D11
-    D22
-    D45
+    D17
+    D44
     D46
     D47
     D48
@@ -177,39 +210,6 @@ Used DCodes :
     D52
     D53
     D54
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Teclas not fitted.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D32
-    D34
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
 *************************************************************
 
 *************************************************************
