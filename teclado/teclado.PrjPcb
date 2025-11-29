@@ -44,7 +44,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Teclas not fitted
 
 [Preferences]
 PrefsVaultGUID=
@@ -184,75 +183,75 @@ DocumentPath=Project Outputs for teclado\NC Drill Files\[No Variations]-Plated.T
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for teclado\Generates pick and place files\[No Variations].csv
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for teclado\NC Drill Files\[No Variations].DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for teclado\Gerber Files\[No Variations].EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for teclado\Gerber Files\[No Variations].GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for teclado\Gerber Files\[No Variations].GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for teclado\Gerber Files\[No Variations].GBP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for teclado\Gerber Files\[No Variations].GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for teclado\Gerber Files\[No Variations].GM
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for teclado\Gerber Files\[No Variations].GTL
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for teclado\Gerber Files\[No Variations].GTO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for teclado\Gerber Files\[No Variations].GTP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for teclado\Gerber Files\[No Variations].GTS
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for teclado\NC Drill Files\[No Variations].LDP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for teclado\Gerber Files\[No Variations].REP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for teclado\Export STEP\[No Variations].step
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for teclado\Generates pick and place files\[No Variations].txt
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for teclado\NC Drill Files\[No Variations].TXT
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for teclado\Design Rule Check - PCBtc.html
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for teclado\NC Drill Files\Teclas not fitted-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for teclado\NC Drill Files\Teclas not fitted-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for teclado\Generates pick and place files\Teclas not fitted.csv
 DItemRevisionGUID=
 
 [GeneratedDocument21]

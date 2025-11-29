@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: H:\OneDrive-UEL\OneDrive - Universidade Estadual de Londrina\[1]-Pcompartilhada\[3]-3_ano\PI 3B\altium\Grupo4-TecladoNumerico\teclado\PCBtc.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=teclas not fitted-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=teclas not fitted-nonplated.txt|DrillLayers=gtl,gbl
