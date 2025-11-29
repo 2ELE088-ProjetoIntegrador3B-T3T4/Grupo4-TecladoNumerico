@@ -1,9 +1,20 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [Teclas not fitted] of Project [teclado.PrjPcb]
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [PCBtc.PcbDoc]
+   Generated File[Teclas not fitted.GTO]
+   Generated File[Teclas not fitted.GTP]
+   Generated File[Teclas not fitted.GTS]
+   Generated File[Teclas not fitted.GTL]
+   Generated File[Teclas not fitted.GBL]
+   Generated File[Teclas not fitted.GBS]
+   Generated File[Teclas not fitted.GBP]
+   Generated File[Teclas not fitted.GBO]
+   Generated File[Teclas not fitted.GM]
+   Generated File[Teclas not fitted.EXTREP]
+   Generated File[Teclas not fitted.REP]
 
 
-Files Generated   : 0
+Files Generated   : 11
 Documents Printed : 0
 
-Finished Output Generation At 13:56:17 On 29/11/2025
+Finished Output Generation At 14:05:29 On 29/11/2025

@@ -2,8 +2,10 @@
 FileName = Teclas not fitted.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : Teclas not fitted.GTL
+Generating : Top Solder
+      File : Teclas not fitted.GTS
+
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -11,27 +13,25 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D11
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
 *************************************************************
 
 *************************************************************
@@ -55,6 +55,23 @@ Used DCodes :
     D22
     D23
     D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Teclas not fitted.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D73
 *************************************************************
 
 *************************************************************
@@ -91,26 +108,52 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Teclas not fitted.GBP
+Generating : Top Overlay
+      File : Teclas not fitted.GTO
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Top Overlay
 
-    Adding Layer      : Bottom Layer
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Teclas not fitted.GTL
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D11
+    D16
+    D17
+    D18
     D19
-    D55
-    D56
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
+    D20
+    D21
+    D22
+    D23
+    D24
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
 *************************************************************
 
 *************************************************************
@@ -147,69 +190,26 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Teclas not fitted.GBO
+Generating : Bottom Paste
+      File : Teclas not fitted.GBP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Paste
 
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D73
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Teclas not fitted.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Teclas not fitted.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
+    D19
+    D55
+    D56
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
 *************************************************************
 
 *************************************************************
