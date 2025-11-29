@@ -1,10 +1,9 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [Teclas not fitted] of PCB Document [PCBtc.PcbDoc]
-   Generated File[Teclas not fitted.csv]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Teclas not fitted] of Project [teclado.PrjPcb]
 
 
-Files Generated   : 1
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 13:02:36 On 29/11/2025
+Finished Output Generation At 13:56:17 On 29/11/2025
