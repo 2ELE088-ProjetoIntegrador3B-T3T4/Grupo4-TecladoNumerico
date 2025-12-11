@@ -1,20 +1,14 @@
-Output: Gerber Files
-Type  : Gerber
-From  : PCB Document [PCBtc.PcbDoc]
-   Generated File[Teclas not fitted.GTO]
-   Generated File[Teclas not fitted.GTP]
-   Generated File[Teclas not fitted.GTS]
-   Generated File[Teclas not fitted.GTL]
-   Generated File[Teclas not fitted.GBL]
-   Generated File[Teclas not fitted.GBS]
-   Generated File[Teclas not fitted.GBP]
-   Generated File[Teclas not fitted.GBO]
-   Generated File[Teclas not fitted.GM]
-   Generated File[Teclas not fitted.EXTREP]
-   Generated File[Teclas not fitted.REP]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 20:12:16 On 10/12/2025
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [teclado.PrjPcb]
+   Generated File[//liveuel-my.sharepoint.com/personal/vitor_hugo_domingues_bogo_live_uel_br/Documents/[1]-Pcompartilhada/[3]-3_ano/PI 3B/altium/Grupo4-TecladoNumerico/teclado/Project Outputs for teclado/Bill of Materials/[No Variations].xlsx]
 
 
-Files Generated   : 11
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 14:05:29 On 29/11/2025
+Finished Output Generation At 20:12:30 On 10/12/2025
