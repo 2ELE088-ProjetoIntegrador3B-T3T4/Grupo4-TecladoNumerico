@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : H:\OneDrive-UEL\OneDrive - Universidade Estadual de Londrina\[1]-Pcompartilhada\[3]-3_ano\PI 3B\altium\tudo\tec\PCBtc.PcbDoc
-Date     : 22/10/2025
-Time     : 21:36:18
+PCB File : H:\OneDrive-UEL\OneDrive - Universidade Estadual de Londrina\[1]-Pcompartilhada\[3]-3_ano\PI 3B\altium\Grupo4-TecladoNumerico\teclado\PCBtc.PcbDoc
+Date     : 11/12/2025
+Time     : 19:49:43
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) ((InComponent('U5')) OR (IsPad AND InComponent('U5'))),((InComponent('U5')) OR IsTrack OR (IsPad AND InComponent('U5')))
 Rule Violations :0
@@ -22,12 +22,14 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net D+ Between Pad R1-1(41.812mm,79.8mm) on Top Layer And Track (44.028mm,83.354mm)(44.201mm,83.181mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net D- Between Pad U18-3(46.101mm,80.881mm) on Top Layer And Track (46.101mm,83.181mm)(46.274mm,83.354mm) on Top Layer 
+Rule Violations :2
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.508mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
 Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
@@ -57,12 +59,7 @@ Rule Violations :0
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
-Waived Violations Of Rule : Un-Routed Net Constraint ( (All) )
-   Waived Violation between Un-Routed Net Constraint: Net D- Between Pad U18-3(46.101mm,80.881mm) on Top Layer And Track (46.101mm,83.181mm)(46.198mm,83.279mm) on Top Layer Waived by vitor hugo domningues bogo at 22/10/2025 21:35:34É a conecção do D- e D+ com o protetor de curco
-   Waived Violation between Un-Routed Net Constraint: Net D+ Between Track (44.195mm,80.875mm)(44.201mm,80.881mm) on Top Layer And Pad U18-6(44.201mm,83.181mm) on Top Layer Waived by vitor hugo domningues bogo at 22/10/2025 21:36:04É a conecção do D- e D+ com o protetor de curco
-Waived Violations :2
 
-
-Violations Detected : 0
-Waived Violations : 2
+Violations Detected : 2
+Waived Violations : 0
 Time Elapsed        : 00:00:00

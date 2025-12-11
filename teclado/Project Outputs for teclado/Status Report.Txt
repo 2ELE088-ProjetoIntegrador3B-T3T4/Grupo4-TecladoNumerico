@@ -1,14 +1,13 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 20:12:16 On 10/12/2025
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCBtc.PcbDoc]
+   Generated File[[No Variations]-Plated.TXT]
+   Generated File[[No Variations]-NonPlated.TXT]
+   Generated File[[No Variations].LDP]
+   Generated File[[No Variations].DRR]
 
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [teclado.PrjPcb]
-   Generated File[//liveuel-my.sharepoint.com/personal/vitor_hugo_domingues_bogo_live_uel_br/Documents/[1]-Pcompartilhada/[3]-3_ano/PI 3B/altium/Grupo4-TecladoNumerico/teclado/Project Outputs for teclado/Bill of Materials/[No Variations].xlsx]
 
-
-Files Generated   : 1
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 20:12:30 On 10/12/2025
+Finished Output Generation At 19:53:35 On 11/12/2025
