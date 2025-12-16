@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : H:\OneDrive-UEL\OneDrive - Universidade Estadual de Londrina\[1]-Pcompartilhada\[3]-3_ano\PI 3B\altium\Grupo4-TecladoNumerico\teclado\PCBtc.PcbDoc
-Date     : 11/12/2025
-Time     : 19:49:43
+PCB File : C:\Users\Marcelo Tosin\Dropbox\Disciplinas_2025\PI3B_2025\Grupo4\Grupo4-TecladoNumerico\teclado\PCBtc.PcbDoc
+Date     : 16/12/2025
+Time     : 15:25:01
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) ((InComponent('U5')) OR (IsPad AND InComponent('U5'))),((InComponent('U5')) OR IsTrack OR (IsPad AND InComponent('U5')))
 Rule Violations :0
@@ -22,9 +22,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net D+ Between Pad R1-1(41.812mm,79.8mm) on Top Layer And Track (44.028mm,83.354mm)(44.201mm,83.181mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net D- Between Pad U18-3(46.101mm,80.881mm) on Top Layer And Track (46.101mm,83.181mm)(46.274mm,83.354mm) on Top Layer 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -60,6 +58,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 2
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
