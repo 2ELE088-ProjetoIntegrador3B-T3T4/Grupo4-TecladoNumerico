@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=D+ Pin=U1-B6
+Removed Pin From Net: NetName=D- Pin=U1-B7
+Removed Pin From Net: NetName=D+ Pin=U18-1
+Removed Pin From Net: NetName=D- Pin=U18-3
+Removed Pin From Net: NetName=D- Pin=U18-4
+Removed Pin From Net: NetName=D+ Pin=U18-6
+Change Component Description : Designator=U2 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U3 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U4 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U6 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U7 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U8 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U9 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U10 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U11 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U12 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U13 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U14 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U15 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U16 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U17 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Added Pin To Net: NetName=D+ Pin=U18-4
+Added Pin To Net: NetName=D- Pin=U18-6
+Added Pin To Net: NetName=DUSB+ Pin=U1-B6
+Added Pin To Net: NetName=DUSB+ Pin=U18-1
+Added Net: Name=DUSB+
+Added Pin To Net: NetName=DUSB- Pin=U1-B7
+Added Pin To Net: NetName=DUSB- Pin=U18-3
+Added Net: Name=DUSB-
+Added Member To Class: ClassName=SqTeclado Member=Component C10 N223 0603
