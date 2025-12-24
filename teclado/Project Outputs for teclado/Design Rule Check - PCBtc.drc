@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Marcelo Tosin\Dropbox\Disciplinas_2025\PI3B_2025\Grupo4\Grupo4-TecladoNumerico\teclado\PCBtc.PcbDoc
-Date     : 18/12/2025
-Time     : 11:08:17
+PCB File : H:\OneDrive-UEL\OneDrive - Universidade Estadual de Londrina\[1]-Pcompartilhada\[3]-3_ano\PI 3B\altium\Grupo4-TecladoNumerico\teclado\PCBtc.PcbDoc
+Date     : 24/12/2025
+Time     : 11:57:21
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) ((InComponent('U5')) OR (IsPad AND InComponent('U5'))),((InComponent('U5')) OR IsTrack OR (IsPad AND InComponent('U5')))
 Rule Violations :0

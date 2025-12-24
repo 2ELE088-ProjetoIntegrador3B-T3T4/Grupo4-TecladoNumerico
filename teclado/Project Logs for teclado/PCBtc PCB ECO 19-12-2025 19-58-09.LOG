@@ -1,0 +1,32 @@
+Change Component Description : Designator=U2 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U3 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U4 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U6 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U7 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U8 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U9 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U10 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U11 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U12 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U13 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U14 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U16 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U17 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U18 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Added Member To Class: ClassName=SqTeclado Member=Component C1 104 0603
+Added Member To Class: ClassName=SqTeclado Member=Component C3 104 0603
+Added Member To Class: ClassName=SqTeclado Member=Component C4 104 0603
+Added Member To Class: ClassName=SqTeclado Member=Component C5 104 0603
+Added Member To Class: ClassName=SqTeclado Member=Component C6 104 0603
+Added Member To Class: ClassName=SqTeclado Member=Component C8 C 27pf 0603
+Added Member To Class: ClassName=SqTeclado Member=Component C9 105 0603
+Added Member To Class: ClassName=SqTeclado Member=Component C11 N223 0603
+Added Member To Class: ClassName=SqTeclado Member=Component C12 106 0603
+Added Member To Class: ClassName=SqTeclado Member=Component R3 R 1.5k 0603
+Added Member To Class: ClassName=SqTeclado Member=Component R4 R o 0603
+Added Member To Class: ClassName=SqTeclado Member=Component R5 10k 0603
+Added Member To Class: ClassName=SqTeclado Member=Component R10 10k 0603
+Added Member To Class: ClassName=SqTeclado Member=Component R11 10k 0603
+Added Member To Class: ClassName=SqTeclado Member=Component R12 10k 0603
+Added Member To Class: ClassName=SqTeclado Member=Component U16 suporte hot-swap
+Added Member To Class: ClassName=SqTeclado Member=Component U18 suporte hot-swap

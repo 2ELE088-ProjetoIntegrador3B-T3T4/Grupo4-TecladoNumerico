@@ -1,0 +1,120 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=SBH11-PBPC-D10-ST-BK New DesignItemId=70247-2051
+Change Component Footprint: Designator=J1 Old Footprint=Conector 20 pinos p/ programação New Footprint=Conector 20 pinos angulado p/ programação
+Change Component Comment : Designator=D1 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D2 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D3 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D4 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D5 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D6 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D7 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D8 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D9 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D10 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D11 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D12 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D13 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D14 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=D15 Old Comment=Diodo 30v/30mA New Comment=Diodo
+Change Component Comment : Designator=J1 Old Comment=SBH11-PBPC-D10-ST-BK New Comment=70247-2051
+Change Component Description : Designator=J1 Old Description=Conn Shrouded Header (4 Sides) HDR 20 POS 2.54mm Solder ST Top Entry Thru-Hole New Description=Conn Shrouded Header (4 Sides) HDR 20 POS 2.54mm Solder RA Side Entry Thru-HoleC-Grid Tray
+Change Component Description : Designator=U2 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U3 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U4 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U6 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U7 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U8 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U9 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U10 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U11 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U12 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U13 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U14 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U16 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U17 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change Component Description : Designator=U18 Old Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack New Description=Kailh Switch Sockets For Mx-Compatible Mechanical Keys - 20 Pack |Adafruit 4958
+Change component parameters: Designator = "J1" ("J1"); Footprint = "Conector 20 pinos p/ programação"; UniqueID = "\TZVHTEVO" ("\TZVHTEVO")
+Change component parameters (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "China RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-165345562.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-165345562.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-13786369.pdf?src-supplier=Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-13786369.pdf?src-supplier=Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://sigma.octopart.com:443/15650526/technical_drawing/Molex-70247-2051.pdf?src-supplier=Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://sigma.octopart.com:443/15650526/technical_drawing/Molex-70247-2051.pdf?src-supplier=Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/702472051-Molex-datasheet-8335392.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/702472051-Molex-datasheet-8335392.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-154757683.pdf?src-supplier=Master+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-154757683.pdf?src-supplier=Master+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-62105721.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-62105721.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-37171976.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-37171976.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-28833383.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-28833383.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/702472051-Molex-datasheet-8221744.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/702472051-Molex-datasheet-8221744.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-141297.pdf?src-supplier=DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/70247-2051-Molex-datasheet-141297.pdf?src-supplier=DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink11Description"; Value = "http://sigma.octopart.com:80/15650546/rohs_certificate/Molex-70247-2051.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink11URL"; Value = "http://sigma.octopart.com:80/15650546/rohs_certificate/Molex-70247-2051.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink12Description"; Value = "http://sigma.octopart.com:80/reach_statement/Molex-company-74.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink12URL"; Value = "http://sigma.octopart.com:80/reach_statement/Molex-company-74.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink13Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Molex-company-73.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink13URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Molex-company-73.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink14Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Molex-company-72.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink14URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Molex-company-72.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Gold, Nickel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Length"; Value = "6.096mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Country of Origin"; Value = "SK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "2.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "6.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ELV"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Glow Wire Compliant"; Value = "Non-compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Polyester"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "12GO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Length"; Value = "3.05mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "8.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "70247-2051"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Polyester"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Post Length"; Value = "6.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "125V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount, Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating Thickness"; Value = "381nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=3,89, 10=3,305, 100=2,809, 500=2,50744, 1000=2,38782 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "2615"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "23-0702472051-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
